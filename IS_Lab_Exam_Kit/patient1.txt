@@ -1,0 +1,6 @@
+Name: Pratyush
+Age: 21
+Gender: Male
+Blood Group: O+
+Diagnosis: Viral Fever
+Medical Details: Patient advised rest and medication.
